@@ -1,5 +1,5 @@
 [package]
-name = "Hands_On_Rust"
+name = "hands_on_rust"
 version = "0.1.0"
 authors = ["Ryan Orlando <jsrco@hotmail.com>"]
 edition = "2018"
